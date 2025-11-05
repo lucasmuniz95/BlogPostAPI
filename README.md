@@ -20,4 +20,4 @@ O Swagger será carregado automaticamente com os endpoints disponíveis:
 
 Com mais tempo, seria possível implementar:
 
-Validações adicionais (ex.: tamanho máximo de campos e obrigatoriedade), Autenticação e autorização via OAuth 2.0, Paginação e filtros nos endpoints de listagem.
+Validações adicionais (ex.: tamanho máximo de campos e obrigatoriedade), Autenticação e autorização via OAuth 2.0, Paginação e filtros nos endpoints de listagem. Além de implementar metodos já criados mas que não foram mapeados nas rotas como o Deletar e Atualizar.
